@@ -1,0 +1,12 @@
+C:\Users\moo\source\repos\legate.project\Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\moo\source\repos\legate.project\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Users\moo\source\repos\legate.project\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\moo\source\repos\legate.project\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\moo\source\repos\legate.project\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\moo\source\repos\legate.project\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\moo\source\repos\legate.project\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\moo\source\repos\legate.project\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\moo\source\repos\legate.project\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\moo\source\repos\legate.project\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\moo\source\repos\legate.project\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\moo\source\repos\legate.project\Application\obj\Debug\netcoreapp3.1\Application.pdb
